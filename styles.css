@@ -102,4 +102,7 @@ footer a {
     background-size: 100%;
     background-position: center center;
   }
+  #history{
+    margin-right:30px;
+  }
 }
